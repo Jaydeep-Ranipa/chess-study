@@ -1,0 +1,8 @@
+C00 Queen's pawn game: Franco-Scillian Defense
+1. e4 e6 2. d4 c5 3. c3 Nc6 4. Nf3 Be7 5. Be2 h6 6. O-O b6 7. Re1 Bb7 8. d5 exd5 9. exd5 Nb8 10. d6 Bf6 11. Ba6+ Kf8 12. Bxb7
+
+A00 Grob Opening: Fool's Mate
+1. g4 c5 2. f4 e5 3. a3 Qh4#
+
+C41 Philidor Defense
+1. e4 e5 2. Nf3 d6 3. d4 Qf6 4. dxe5 dxe5 5. Bg5 Qc6 6. Qd8#
